@@ -1,0 +1,50 @@
+li{
+	border: 1px solid white;
+}
+
+#para1{
+	margin-top: 20px;
+	border: 1px solid black;
+	border-radius: 15px;
+	padding: 10px 10px 10px 10px;
+	background: linear-gradient(45deg, #f5fb80 0%, #857ffa 100%)
+}
+
+#para2{
+	margin-top: 20px;
+	border: 1px solid black;
+	border-radius: 15px;
+	padding: 10px 10px 10px 10px;
+	background: linear-gradient(90deg, #fe838e 0%, #82fef2 100%)
+}
+
+#para3{
+	margin-top: 20px;
+	border: 1px solid black;
+	border-radius: 15px;
+	padding: 10px 10px 10px 10px;
+	background: linear-gradient(315deg, #ce4c37 0%, #d2e97a 100%)
+}
+
+#head{
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+#heading{
+	font-size: 2em;
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+body{
+	background-image: linear-gradient(to right top, #57f668, #6ff958, #86fb46, #9bfd2f, #b0ff00);
+}
+
+ul li a:hover{
+	background: grey;
+}
+
+a .d-block d-sm-none{
+	font-weight: bold;
+}
